@@ -1,7 +1,13 @@
 {
   "name": "to_system_activity",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "跳转到系统页面",
+  "cordova": {
+    "id": "cordova-plugin-sysActivity",
+    "platforms": [
+      "android"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nx6313/toSystemActivity.git"
