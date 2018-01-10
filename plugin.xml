@@ -6,7 +6,7 @@
     </js-module>
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
-            <feature name="SystemActivity">
+            <feature name="ToSystemActivity">
                 <param name="android-package" value="com.hmj.nx6313.tosystemactivity.SystemActivity" />
             </feature>
         </config-file>
