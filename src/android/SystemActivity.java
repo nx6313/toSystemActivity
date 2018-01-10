@@ -23,7 +23,7 @@ public class SystemActivity extends CordovaPlugin {
     public boolean execute(String action, JSONArray args, CallbackContext callbackContext) throws JSONException {
         if(action.equals("toActivity")) {
             String actType = args.getString(0);
-            if(actType.equals('appSystemSet')) {
+            if(actType.equals("appSystemSet")) {
                 Intent localIntent = new Intent();
                 localIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 if(Build.VERSION.SDK_INT >= 11){
