@@ -11,8 +11,8 @@
 
 #### 插件安装
 ```cmd
-$ npm install to_system_activity
-$ cordova plugin add to_system_activity
+$ npm install cordova-plugin-sysactivity
+$ cordova plugin add cordova-plugin-sysactivity
 ```
 
 #### 方法说明

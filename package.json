@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-sysactivity",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "跳转到系统页面",
   "cordova": {
     "id": "cordova-plugin-sysactivity",
