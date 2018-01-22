@@ -1,9 +1,9 @@
 {
-  "name": "to_system_activity",
-  "version": "1.0.8",
+  "name": "cordova-plugin-sysactivity",
+  "version": "1.0.9",
   "description": "跳转到系统页面",
   "cordova": {
-    "id": "cordova-plugin-sysActivity",
+    "id": "cordova-plugin-sysactivity",
     "platforms": [
       "android"
     ]
